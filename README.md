@@ -37,4 +37,8 @@ To run the Jupyter notebook, ensure that you have the following prerequisites in
 - Jupyter Notebook
 - Libraries: pandas, numpy, scikit-learn, seaborn, matplotlib
 
-Install dependencies with:
+## Contact
+
+Your Name - [parinya.ssai@gmail.com]
+
+Project Link: [https://github.com/teampa/income_prediction.git]
