@@ -39,6 +39,6 @@ To run the Jupyter notebook, ensure that you have the following prerequisites in
 
 ## Contact
 
-Your Name - [parinya.ssai@gmail.com]
+Parinya Sodsai - [parinya.ssai@gmail.com]
 
 Project Link: [https://github.com/teampa/income_prediction.git]
